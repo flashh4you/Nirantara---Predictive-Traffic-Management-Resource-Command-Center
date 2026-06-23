@@ -1,2 +1,11 @@
-# Nirantara---Predictive-Traffic-Management-Resource-Command-Center
-Nirantara is an intelligent, dynamic traffic command center built to solve the operational challenges of Event-Driven Congestion. Localized traffic breakdowns caused by political rallies, festivals, sports events, and sudden gatherings are traditionally managed through reactive, experience-driven methods. 
+
+  # Traffic Management App Design
+
+  This is a code bundle for Traffic Management App Design. The original project is available at https://www.figma.com/design/blZKc758LvRORynZTt1Bgv/Traffic-Management-App-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
